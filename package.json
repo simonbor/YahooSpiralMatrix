@@ -1,0 +1,9 @@
+{
+  "name": "yahoo-spiral-matrix",
+  "version": "0.0.0",
+  "description": "YahooSpiralMatrix",
+  "main": "app.js",
+  "author": {
+    "name": "Simon"
+  }
+}
